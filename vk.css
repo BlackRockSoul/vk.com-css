@@ -14,11 +14,3 @@ background: rgba( 0, 0, 0, 0.1) !important;
 left: 1200px !important;
 top: 90px !important;
 }
-.pg_flnk, .pg_flnk_rd, .pg_flnk_sel, .pg_flnk_nb {
-font-size: 2.18em !important;
-}
-.pg_fixed_back {
-width: 96px !important;
-height: 46px !important;
-}
-.pg_flnk_nb
